@@ -22,6 +22,8 @@ As a Computer Science 4rth semester student, this project highlights my commitme
 | **Live Demo** | https://zahidkhan1081.github.io/simple-calculator/ |
 | **Source Code** | `https://github.com/zahidkhan1081/simple-calculator` |
 
-## Author
-* **zahidkhan1081** - B.Sc. Computer Science UET PESHAWAR 4rth Semester Student.
+---
+## 👤 Author & Contact
 
+* **Zahid Khan** - B.Sc. Computer Science UET PESHAWAR 4rth Semester Student | Freelance Data & Web Support
+* **GitHub Profile:** [https://github.com/zahidkhan1081](https://github.com/zahidkhan1081)
